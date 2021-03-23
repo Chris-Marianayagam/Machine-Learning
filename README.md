@@ -9,3 +9,5 @@ Linear Regession
 Logistic Regression
 
 Multi-class Classification and Neural Networks
+
+Neural Network Learning
